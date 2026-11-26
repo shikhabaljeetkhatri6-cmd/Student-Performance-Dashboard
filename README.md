@@ -43,7 +43,7 @@ Student-Performance-Dashboard/
 │
 ├── Student_Performance_Dashboard.ipynb
 ├── README.md
-└── dataset.csv (if applicable)
+└── StudentsPerformance.csv 
 
 🚀 How to Run the Project
 
